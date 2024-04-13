@@ -6,5 +6,3 @@
 3. Визуализация данных, создание интерактивного дашборда.
 ## Используемые инструменты
 Python, Pandas, Excel
-
-[Cup IT 2024 - Диплом - Иван Подойников.pdf](https://github.com/IvanPodoynikov/Data_Analysis/files/14967231/Cup.IT.2024.-.-.pdf)
